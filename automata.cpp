@@ -14,7 +14,7 @@ string caracter;
 string apilo;
 string extraer;
 public:
-friend class MarcAyModelO;
+friend class Automata;
 Nodo(){
 sig=NULL;
 inferior=NULL;
